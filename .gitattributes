@@ -1,3 +1,3 @@
 *.bat text eol=crlf
-*.lng text eol=crlf
+*.lng text eol=crlf working-tree-encoding=utf-16le
 *.txt text eol=crlf
