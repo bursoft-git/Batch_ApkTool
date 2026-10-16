@@ -2,4 +2,3 @@
 *.lng -text
 *.txt text eol=crlf
 *.yara -linguist-detectable
-BatchApkTool/bin/plugins/APKiD/apkid/rules/** linguist-vendored
