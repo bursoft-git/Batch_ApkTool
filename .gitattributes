@@ -1,3 +1,5 @@
 *.bat text eol=crlf
 *.lng -text
 *.txt text eol=crlf
+*.yar -linguist-detectable
+*.yara -linguist-detectable
