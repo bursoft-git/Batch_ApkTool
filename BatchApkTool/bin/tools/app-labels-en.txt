@@ -1,0 +1,638 @@
+android Android System
+android.autoinstalls.config.samsung ConfigAPK
+com.android.apps.tag Tags
+com.android.avatarpicker Choose a picture
+com.android.bips Default Print Service
+com.android.bluetooth Bluetooth
+com.android.bluetoothmidiservice Bluetooth MIDI Service
+com.android.bookmarkprovider Bookmark Provider
+com.android.calllogbackup Call Log Backup/Restore
+com.android.cameraextensions CameraExtensionsProxy
+com.android.carrierdefaultapp Carrier Communications
+com.android.certinstaller Certificate installer
+com.android.chrome Chrome
+com.android.companiondevicemanager Companion Device Manager
+com.android.credentialmanager Credential Manager
+com.android.devicediagnostics DeviceDiagnostics
+com.android.dreams.basic Basic Daydreams
+com.android.dreams.phototable Photo Screensavers
+com.android.dynsystem Dynamic System Updates
+com.android.egg Android Easter Egg
+com.android.externalstorage External Storage
+com.android.hotspot2.osulogin OsuLogin
+com.android.hotwordenrollment.okgoogle OK Google Hotword
+com.android.hotwordenrollment.xgoogle Hey Google Hotword
+com.android.htmlviewer HTML Viewer
+com.android.inputdevices Input Devices
+com.android.intentresolver IntentResolver
+com.android.internal.display.cutout.emulation.corner Corner cutout
+com.android.internal.display.cutout.emulation.double Double cutout
+com.android.internal.display.cutout.emulation.hole Punch Hole cutout
+com.android.internal.display.cutout.emulation.tall Tall cutout
+com.android.internal.display.cutout.emulation.waterfall Waterfall cutout
+com.android.internal.systemui.navbar.gestural Gestural Navigation Bar
+com.android.internal.systemui.navbar.threebutton 3 Button Navigation Bar
+com.android.internal.systemui.navbar.transparent Transparent navigation bar
+com.android.keychain Key Chain
+com.android.location.fused Fused Location
+com.android.managedprovisioning Work Setup
+com.android.mms.service MmsService
+com.android.mtp MTP Host
+com.android.nfc NFC Service
+com.android.pacprocessor PacProcessor
+com.android.phone Phone services
+com.android.printspooler Print Spooler
+com.android.providers.blockednumber Blocked Numbers Storage
+com.android.providers.calendar Calendar storage
+com.android.providers.contactkeys ContactsKeys Storage
+com.android.providers.downloads Download Manager
+com.android.providers.downloads.ui Downloads
+com.android.providers.settings Settings Storage
+com.android.providers.telephony Phone and Messaging Storage
+com.android.providers.userdictionary User Dictionary
+com.android.proxyhandler ProxyHandler
+com.android.role.notes.enabled Notes Role enabled
+com.android.se SecureElementApplication
+com.android.server.telecom Phone calls
+com.android.settings Settings
+com.android.settings.intelligence Settings Suggestions
+com.android.shell Shell
+com.android.simappdialog Sim App Dialog
+com.android.stk SIM toolkit
+com.android.stk2 SIM toolkit
+com.android.storagemanager Storage Manager
+com.android.systemui System UI
+com.android.theme.font.notoserifsource Noto Serif / Source Sans Pro
+com.android.traceur System Tracing
+com.android.uwb.resources System UWB Resources
+com.android.vending Google Play Store
+com.android.virtualdevicemanager Virtual Device Manager
+com.android.virtualization.terminal Terminal
+com.android.vpndialogs VpnDialogs
+com.android.wallpaper.livepicker Live Wallpaper Picker
+com.android.wifi.resources System Wi-Fi Resources
+com.facebook.appmanager Meta App Manager
+com.facebook.services Meta Services
+com.facebook.system Meta App Installer
+com.google.android.adservices.api Ad Privacy
+com.google.android.aicore AICore
+com.google.android.apps.accessibility.voiceaccess Voice Access
+com.google.android.apps.aiwallpapers AI wallpaper
+com.google.android.apps.bard Gemini
+com.google.android.apps.carrier.carrierwifi Google Wi-Fi Provisioner
+com.google.android.apps.maps Maps
+com.google.android.apps.messaging Messages
+com.google.android.apps.photos Photos
+com.google.android.apps.restore Android Switch
+com.google.android.apps.tachyon Meet
+com.google.android.apps.turbo Device Health Services
+com.google.android.as Android System Intelligence
+com.google.android.as.oss Private Compute Services
+com.google.android.captiveportallogin Captive Portal Login
+com.google.android.cellbroadcastreceiver Wireless emergency alerts
+com.google.android.cellbroadcastservice Cell Broadcast Service
+com.google.android.configupdater ConfigUpdater
+com.google.android.connectivity.resources System Connectivity Resources
+com.google.android.documentsui Files
+com.google.android.euicc SIM Manager
+com.google.android.ext.services Android Services Library
+com.google.android.ext.shared Android Shared Library
+com.google.android.feedback Market Feedback Agent
+com.google.android.glasses.core Glasses Core
+com.google.android.gm Gmail
+com.google.android.gms Google Play services
+com.google.android.gms.location.history Google Location History
+com.google.android.gms.supervision System parental controls
+com.google.android.googlequicksearchbox Google
+com.google.android.gsf Google Services Framework
+com.google.android.healthconnect.controller Health Connect
+com.google.android.modulemetadata Main components
+com.google.android.mosey Quick Share extension
+com.google.android.networkstack Network manager
+com.google.android.networkstack.tethering Tethering
+com.google.android.onetimeinitializer Google One Time Init
+com.google.android.packageinstaller Package installer
+com.google.android.partnersetup Google Partner Setup
+com.google.android.permissioncontroller Permission controller
+com.google.android.photopicker Photos & videos
+com.google.android.printservice.recommendation Print Service Recommendation Service
+com.google.android.projection.gearhead Android Auto
+com.google.android.providers.media.module Media picker
+com.google.android.rkpdapp RemoteProvisioner
+com.google.android.safetycenter.resources Google Safety Center Resources
+com.google.android.setupwizard Android Setup
+com.google.android.syncadapters.calendar Google Calendar Sync
+com.google.android.tts Speech Recognition and Synthesis from Google
+com.google.android.verifier Android Developer Verifier
+com.google.android.webview Android System WebView
+com.google.android.youtube YouTube
+com.google.ar.core Google Play Services for AR
+com.google.audio.hearing.visualization.accessibility.scribe Live Transcribe & Sound Notifications
+com.google.mainline.adservices Main components
+com.google.mainline.telemetry Support components
+com.hiya.star Hiya Service
+com.knox.vpn.proxyhandler KnoxVpnPacProcessor
+com.microsoft.appmanager Link to Windows
+com.microsoft.skydrive OneDrive
+com.monotype.android.font.foundation Foundation
+com.monotype.android.font.roboto Roboto
+com.monotype.android.font.samsungone SamsungOne
+com.mygalaxy.service My Galaxy
+com.osp.app.signin Samsung account
+com.qti.qcc QCC
+com.qti.snapdragon.qdcm_ff QDCM-FF
+com.qualcomm.location EmergencyLocServices
+com.qualcomm.qti.services.systemhelper System Helper Service
+com.samsung.aasaservice SecurityPolicy
+com.samsung.accessibility Accessibility
+com.samsung.accessory.budsunitemgr Galaxy Buds
+com.samsung.advp.imssettings IMS Settings
+com.samsung.android.accessibility.talkback TalkBack
+com.samsung.android.aicore Samsung AI Core
+com.samsung.android.aircommandmanager FACM
+com.samsung.android.allshare.service.mediashare Nearby Service
+com.samsung.android.app.aodservice AlwaysOnDisplay
+com.samsung.android.app.camera.sticker.facearavatar.preload Crocro and friends
+com.samsung.android.app.clipboardedge Clipboard edge
+com.samsung.android.app.contacts Contacts
+com.samsung.android.app.dressroom Wallpaper and style
+com.samsung.android.app.earphonetypec Samsung USB-C headset
+com.samsung.android.app.esimkeystring esimkeystring
+com.samsung.android.app.interpreter Interpreter
+com.samsung.android.app.moments Moments
+com.samsung.android.app.omcagent Recommended apps
+com.samsung.android.app.parentalcare Parental controls
+com.samsung.android.app.readingglass Magnify
+com.samsung.android.app.routines Modes and Routines
+com.samsung.android.app.sharelive Quick Share
+com.samsung.android.app.sketchbook Creative studio
+com.samsung.android.app.smartcapture Samsung capture
+com.samsung.android.app.soundpicker Sound picker
+com.samsung.android.app.taskedge Tasks
+com.samsung.android.app.telephonyui Call settings
+com.samsung.android.app.telephonyui.esimclient EsimClient
+com.samsung.android.app.updatecenter App update
+com.samsung.android.app.vex.scanner Document scan
+com.samsung.android.app.watchmanagerstub Wearable Manager Installer
+com.samsung.android.appseparation Separated Apps
+com.samsung.android.aremoji Galaxy Avatar
+com.samsung.android.aremojieditor Avatar Editor
+com.samsung.android.audiomirroring AudioMirroring
+com.samsung.android.authfw Authentication Framework
+com.samsung.android.aware.service Quick Share Agent
+com.samsung.android.bbc.bbcagent BBCAgent
+com.samsung.android.beaconmanager Nearby device scanning agent
+com.samsung.android.biometrics.app.setting Biometrics
+com.samsung.android.bixby.agent Bixby
+com.samsung.android.bixby.wakeup Voice wake-up
+com.samsung.android.bixbyvision.framework BixbyVision Framework
+com.samsung.android.bluelightfilter Eye comfort shield
+com.samsung.android.callassistant Call Services
+com.samsung.android.callbgprovider CallBGProvider
+com.samsung.android.camerasdkservice SCameraService
+com.samsung.android.cameraxservice SCameraXService
+com.samsung.android.carkey Digital Key Framework
+com.samsung.android.cidmanager Configuration update
+com.samsung.android.ConnectivityOverlay ConnectivityOverlay
+com.samsung.android.ConnectivityUxOverlay ConnectivityUxOverlay
+com.samsung.android.da.daagent Dual Messenger
+com.samsung.android.dbsc Galaxy Service Setup
+com.samsung.android.dialer Phone
+com.samsung.android.dkey Samsung Wallet Digital Key
+com.samsung.android.dqagent DQA
+com.samsung.android.dsms Dsms
+com.samsung.android.dynamiclock Wallpaper services
+com.samsung.android.easysetup Nearby device scanning
+com.samsung.android.emergency Emergency SOS
+com.samsung.android.ese SamsungSEAgent
+com.samsung.android.fmm Find My Mobile
+com.samsung.android.forest Digital Wellbeing
+com.samsung.android.game.gametools Game Booster
+com.samsung.android.game.gos Game Optimizing Service
+com.samsung.android.globalpostprocmgr Galaxy editing service
+com.samsung.android.gru Galaxy Resource Updater
+com.samsung.android.hdmapp HdmApp
+com.samsung.android.honeyboard Samsung Keyboard
+com.samsung.android.hwresourceshare Camera Share
+com.samsung.android.hwresourceshare.storage Storage Share
+com.samsung.android.incallui Call
+com.samsung.android.inputshare Multi control
+com.samsung.android.intellivoiceservice Samsung Intelligence Service
+com.samsung.android.ipsgeofence Samsung Visit In
+com.samsung.android.kgclient Device Services
+com.samsung.android.kidsinstaller Samsung Kids Installer
+com.samsung.android.kmxservice Knox Matrix
+com.samsung.android.knox.analytics.uploader Knox Analytics Uploader
+com.samsung.android.knox.attestation com.samsung.android.knox.attestation
+com.samsung.android.knox.containercore KnoxCore
+com.samsung.android.knox.er com.samsung.android.knox.er
+com.samsung.android.knox.kfbp KnoxFrameBufferProvider
+com.samsung.android.knox.knnr KnoxNeuralNetworkRuntime
+com.samsung.android.knox.kpecore KPECore
+com.samsung.android.knox.mpos com.samsung.android.knox.mpos
+com.samsung.android.knox.pushmanager KnoxPushManager
+com.samsung.android.knox.sandbox KnoxSandbox
+com.samsung.android.knox.zt.framework KnoxZT Framework
+com.samsung.android.liveeffectservice Live Effect Service
+com.samsung.android.location slocation
+com.samsung.android.lool Device care
+com.samsung.android.mapsagent Application recommendations
+com.samsung.android.mcf.autohotspot AutoHotspotMDE
+com.samsung.android.mcfds Continuity Service
+com.samsung.android.mcfserver Samsung Multi Connectivity
+com.samsung.android.mdecservice Call & text on other devices
+com.samsung.android.mdm Knox Core Service
+com.samsung.android.mdx Link to Windows Service
+com.samsung.android.mdx.kit Quick Share Connectivity
+com.samsung.android.messageguardsync Message Guard Sync
+com.samsung.android.mhs.ai MhsAiService
+com.samsung.android.mobileservice Group Sharing
+com.samsung.android.mocca MoccaMobile
+com.samsung.android.motionphoto.app Motionphoto
+com.samsung.android.mtp MTP application
+com.samsung.android.mydevice Nearby devices
+com.samsung.android.net.wifi.wifiguider Wi-Fi tips
+com.samsung.android.networkdiagnostic NetworkDiagnostic
+com.samsung.android.networkstack NetworkStackOverlay
+com.samsung.android.nfc NFC
+com.samsung.android.offline.languagemodel Samsung Language Core
+com.samsung.android.photoremasterservice PhotoRemasterService
+com.samsung.android.privacydashboard Permission usage
+com.samsung.android.privateaccesstokens Automatic verification
+com.samsung.android.provider.filterprovider Filter Provider
+com.samsung.android.providers.contacts Contacts Storage
+com.samsung.android.providers.factory FactoryTestProvider
+com.samsung.android.providers.media Samsung Media Storage
+com.samsung.android.providers.trash SecTrashProvider
+com.samsung.android.qmdservice QMDService
+com.samsung.android.rampart Auto Blocker
+com.samsung.android.rubin.app Customisation Service
+com.samsung.android.samsungpass Samsung Pass
+com.samsung.android.samsungpassautofill Autofill with Samsung Pass
+com.samsung.android.samsungpositioning SamsungPositioning
+com.samsung.android.scloud Samsung Cloud
+com.samsung.android.scpm Samsung Cloud Assistant
+com.samsung.android.scs Samsung Core Services
+com.samsung.android.sdk.handwriting HandwritingService
+com.samsung.android.sdk.ocr OCRDataProvider
+com.samsung.android.sdm.config Service provider setup
+com.samsung.android.sead EnvironmentAdaptiveDisplay
+com.samsung.android.secsoundpicker SecSoundPicker
+com.samsung.android.server.wifi.mobilewips MobileWips
+com.samsung.android.service.aircommand Air command
+com.samsung.android.service.airviewdictionary Translate
+com.samsung.android.service.peoplestripe People
+com.samsung.android.service.stplatform SmartThings Companion
+com.samsung.android.service.tagservice Tags
+com.samsung.android.setting.multisound Separate app sound
+com.samsung.android.settingshelper SettingsHelper
+com.samsung.android.shortcutbackupservice ShortcutBNR
+com.samsung.android.simagent Sim Agent
+com.samsung.android.singletake.service Single take
+com.samsung.android.sm.devicesecurity App protection
+com.samsung.android.smartcallprovider Smart Call
+com.samsung.android.smartface SmartFaceService
+com.samsung.android.smartmirroring Smart View
+com.samsung.android.smartsuggestions Personal data intelligence
+com.samsung.android.smartswitchassistant com.samsung.android.smartswitchassistant
+com.samsung.android.spayfw Samsung Pay Framework
+com.samsung.android.ssco Samsung Semantic Core
+com.samsung.android.stickercenter Sticker Center
+com.samsung.android.svcagent SVC Agent
+com.samsung.android.themecenter Galaxy Themes Service
+com.samsung.android.themestore Galaxy Themes
+com.samsung.android.vexfwk.service VexFwkService
+com.samsung.android.video Video Player
+com.samsung.android.vision.model Samsung Vision Model
+com.samsung.android.visionintelligence Bixby Vision
+com.samsung.android.visual.cloudcore Samsung Visual Cloud Core
+com.samsung.android.vtcamerasettings Video effects
+com.samsung.android.wallpaper.live Samsung Wallpaper
+com.samsung.android.wcmurlsnetworkstack WcmUrlsNetworkStackOverlay
+com.samsung.android.widget.pictureframe Gallery
+com.samsung.android.wifi.ai WiFiAiService
+com.samsung.android.wifi.intelligence WifiIntelligence
+com.samsung.app.newtrim Editor Lite
+com.samsung.cmh CMHProvider
+com.samsung.crane Phone
+com.samsung.drm DrmBigdata
+com.samsung.drmboost DrmEventapp
+com.samsung.euicc SamsungEuiccService
+com.samsung.faceservice FaceService
+com.samsung.gpuwatchapp GPUWatch
+com.samsung.internal.systemui.navbar.gestural_no_hint Gestural Navigation Bar
+com.samsung.internal.systemui.navbar.sec_gestural Gestural Navigation Bar
+com.samsung.internal.systemui.navbar.sec_gestural_no_hint Gestural Navigation Bar
+com.samsung.ipservice IPService
+com.samsung.klmsagent KLMS Agent
+com.samsung.knox.securefolder Secure Folder
+com.samsung.mediasearch MediaSearch
+com.samsung.mfcontents MFContents
+com.samsung.oda.agent OdaAgent
+com.samsung.oda.service SamsungOdaService
+com.samsung.petservice PetService
+com.samsung.safetyinformation Safety information
+com.samsung.sait.sohservice SoHService
+com.samsung.sec.android.application.csc CSC
+com.samsung.SMT Samsung text-to-speech engine
+com.samsung.SMT.lang_ar_ae_m00 SamsungTTS MSA Arabic Voice 1
+com.samsung.SMT.lang_de_de_f00 SamsungTTS German Default voice 1 - Classic
+com.samsung.SMT.lang_en_gb_f00 SamsungTTS UK English Default voice 1 - Classic
+com.samsung.SMT.lang_en_us_l03 SamsungTTS US English Voice 1
+com.samsung.SMT.lang_es_es_f00 SamsungTTS Spanish Default voice 1 - Classic
+com.samsung.SMT.lang_es_mx_f00 SamsungTTS Mexican Spanish Voice 1
+com.samsung.SMT.lang_es_us_f00 SamsungTTS US Spanish Default voice 1
+com.samsung.SMT.lang_fr_fr_f00 SamsungTTS French Default voice 1 - Classic
+com.samsung.SMT.lang_hi_in_f00 SamsungTTS Hindi Voice 1
+com.samsung.SMT.lang_id_id_f00 SamsungTTS Indonesian Voice 1
+com.samsung.SMT.lang_it_it_f00 SamsungTTS Italian Default voice 1 - Classic
+com.samsung.SMT.lang_pl_pl_f00 SamsungTTS Polish Voice 1
+com.samsung.SMT.lang_pt_br_f00 SamsungTTS Brazilian Portuguese Default voice 1 - Classic
+com.samsung.SMT.lang_ru_ru_f00 SamsungTTS Russian Voice 1
+com.samsung.SMT.lang_th_th_f00 SamsungTTS Thai Voice 1
+com.samsung.SMT.lang_vi_vn_f00 SamsungTTS Vietnamese Voice 1
+com.samsung.ssu Network unlock
+com.samsung.storyservice Gallery stories
+com.samsung.ts43authservice Ts43AuthService
+com.samsung.unifiedtp Tethering Provision
+com.sec.android.app.billing Samsung Checkout
+com.sec.android.app.bluetoothagent Bluetooth Agent
+com.sec.android.app.camera Camera
+com.sec.android.app.chromecustomizations ChromeCustomizations
+com.sec.android.app.factorykeystring DeviceKeystring
+com.sec.android.app.hwmoduletest HwModuleTest
+com.sec.android.app.launcher One UI Home
+com.sec.android.app.magnifier Magnifier
+com.sec.android.app.myfiles My Files
+com.sec.android.app.parser DRParser Mode
+com.sec.android.app.personalization Perso
+com.sec.android.app.quicktool Tools
+com.sec.android.app.RilPhoneNumberService PhoneNumberService
+com.sec.android.app.safetyassurance Emergency sharing
+com.sec.android.app.samsungapps Galaxy Store
+com.sec.android.app.SecSetupWizard Samsung setup wizard
+com.sec.android.app.servicemodeapp Service mode
+com.sec.android.app.setupwizardlegalprovider SetupWizardLegalProvider
+com.sec.android.app.soundalive Sound quality and effects
+com.sec.android.app.uwbtest UwbTest
+com.sec.android.app.ve.vebgm Samsung Editing Assets
+com.sec.android.app.vepreload Studio
+com.sec.android.app.volumemonitorprovider VolumeMonitorProvider
+com.sec.android.app.wlantest WlanTest
+com.sec.android.CcInfo CcInfo
+com.sec.android.daemonapp Weather
+com.sec.android.diagmonagent DiagMonAgent
+com.sec.android.easyMover Smart Switch
+com.sec.android.easyMover.Agent Smart Switch Agent
+com.sec.android.easyonehand EasyOneHand
+com.sec.android.emergencylauncher Launcher
+com.sec.android.gallery3d Gallery
+com.sec.android.iaft iaft
+com.sec.android.mimage.avatarstickers Avatar Stickers
+com.sec.android.mimage.photoretouching Photo Editor
+com.sec.android.provider.badge BadgeProvider
+com.sec.android.RilServiceModeApp Service mode RIL
+com.sec.android.sdhms Samsung Device Health Manager Service
+com.sec.android.smartfpsadjuster SmartFPSAdjuster
+com.sec.android.soagent Software update
+com.sec.android.widgetapp.easymodecontactswidget Favourite Contacts
+com.sec.app.RilErrorNotifier RilNotifier
+com.sec.automation TetheringAutomation
+com.sec.enterprise.knox.cloudmdm.smdms Enrollment Service
+com.sec.epdgtestapp EpdgTestApp
+com.sec.facatfunction FacAtFunction
+com.sec.factory.camera FactoryCamera
+com.sec.hearingadjust Adapt sound
+com.sec.imslogger ImsLogger
+com.sec.imsservice IMS Service
+com.sec.location.nfwlocationprivacy Service provider location
+com.sec.location.nsflp2 Samsung Location SDK
+com.sec.mhs.smarttethering Auto Hotspot
+com.sec.modem.settings SilentLogging
+com.sec.nrsaentitlement NrsaEntitlement
+com.sec.spp.push Samsung Push Service
+com.sec.sve Samsung Call Media
+com.sec.unifiedwfc Wi-Fi Calling
+com.sec.usbsettings USBSettings
+com.sec.vsim.ericssonnsds.webapp NSDSWebApp
+com.sem.factoryapp SEMFactoryApp
+com.skms.android.agent SKMSAgentService
+com.swiftkey.swiftkeyconfigurator Microsoft SwiftKey Factory Settings
+com.touchtype.swiftkey Microsoft SwiftKey Keyboard
+com.wsomacp Configuration message
+com.wssyncmldm Software update
+android.autoinstalls.config.Xiaomi.model PlayAutoInstalls
+com.android.angle Android System Angle
+com.android.camera Camera
+com.android.contacts Contacts and dialer
+com.android.DeviceAsWebcam Webcam Service
+com.android.incallui Phone
+com.android.mms Messaging
+com.android.musicfx MusicFX
+com.android.networkstack.overlay.miui NetworkStackOverlay
+com.android.providers.contacts Contacts Storage
+com.android.provision Provision
+com.android.server.telecom.overlay.miui Manage calls
+com.android.soundpicker Sounds
+com.android.statementservice Intent Filter Verification Service
+com.android.thememanager Themes
+com.android.updater Updater
+com.bsp.catchlog Log generator
+com.goodix.fingerprint.producttest In-Display Fingerprint
+com.google.ambient.streaming Cross-Device Services
+com.google.android.accessibility.switchaccess Switch Access
+com.google.android.apps.docs Drive
+com.google.android.apps.safetyhub Personal Safety
+com.google.android.apps.setupwizard.searchselector Search Engine Selector
+com.google.android.apps.subscriptions.red Google One
+com.google.android.apps.wellbeing Digital Wellbeing
+com.google.android.apps.youtube.music YouTube Music
+com.google.android.devicelockcontroller DeviceLockController
+com.google.android.hotspot2.osulogin OsuLogin
+com.google.android.inputmethod.latin Gboard
+com.google.android.marvin.talkback Android Accessibility Suite
+com.google.android.uwb.resources System UWB Resources
+com.google.android.videos Google TV
+com.google.android.wifi.resources System Wi-Fi Resources
+com.lbe.security.miui Permissions
+com.mi.android.globalFileexplorer File Manager
+com.mi.appfinder App finder
+com.mi.globalbrowser Mi Browser
+com.mi.globallayout HomeLayout
+com.mi.globalminusscreen App vault
+com.mi.healthglobal Heart rate
+com.microsoft.deviceintegrationservice Device Integration Service
+com.milink.service Interconnectivity
+com.miui.accessibility Mi Ditto
+com.miui.analytics Analytics
+com.miui.aod Always-on display and Lock screen editor
+com.miui.audiomonitor Voice Call Recorder
+com.miui.autoui.ext AutoUIExtension
+com.miui.backup Backup
+com.miui.bugreport Feedback
+com.miui.cit CIT
+com.miui.cleaner Cleaner
+com.miui.cloudbackup Cloud backup
+com.miui.cloudservice Xiaomi Cloud
+com.miui.core System SDK
+com.miui.daemon System Daemon
+com.miui.euicc LPA
+com.miui.extraphoto Bokeh
+com.miui.gallery Gallery
+com.miui.global.packageinstaller Package installer
+com.miui.guardprovider System security components
+com.miui.home System launcher
+com.miui.mediaviewer Media viewer
+com.miui.micloudsync MiCloudSync
+com.miui.miservice Services & feedback
+com.miui.mishare.connectivity Xiaomi Share
+com.miui.misightservice System quality monitoring
+com.miui.misound Earphones
+com.miui.miwallpaper MiWallpaper
+com.miui.msa.global msa
+com.miui.notification Notifications
+com.miui.phrase Clipboard and frequent phrases
+com.miui.player Music
+com.miui.powerkeeper Battery and performance
+com.miui.screenshot Screenshot
+com.miui.securityadd System service plugin
+com.miui.securitycenter Security
+com.miui.securitycore System features plug-in
+com.miui.systemui.devices.overlay DevicesOverlay
+com.miui.systemui.overlay.devices.android DevicesAndroidOverlay
+com.miui.thirdappassistant Smart app assistant
+com.miui.touchassistant Quick ball
+com.miui.tsmclient Smart cards
+com.miui.videoplayer Mi Video
+com.miui.vsimcore MConnService
+com.miui.yellowpage Yellow pages
+com.miuix.editor floatingwindow
+com.qti.dcf dcf
+com.qti.ltebc LTE Broadcast Manager
+com.qti.qualcomm.deviceinfo Device Info
+com.qti.xdivert Smart-Divert
+com.qualcomm.qti.biometrics.fingerprint.qfsfactorytest Factory Test
+com.qualcomm.qti.confdialer ConfDialer
+com.qualcomm.qti.poweroffalarm PowerOffAlarm
+com.qualcomm.qti.powersavemode Usable Power Mode
+com.qualcomm.qti.qcolor QColor
+com.qualcomm.qti.ridemodeaudio RideMode Recording list
+com.qualcomm.qti.server.qtiwifi QtiWifiService
+com.qualcomm.qti.simcontacts SimContacts
+com.qualcomm.qti.uceShimService uceShimService
+com.qualcomm.qti.xrcb XRCB
+com.qualcomm.qti.xrvd.service XRVD
+com.qualcomm.qti.xrwifi XR Wifi Service
+com.qualcomm.qtil.aptxacu acu
+com.qualcomm.wfd.service Wfd Service
+com.st.android.nfc_extensions_16 ST Extension Service
+com.tencent.soter.soterserver SoterService
+com.wdstechnology.android.kryten OTA access point configuration
+com.xiaomi.account Xiaomi Account
+com.xiaomi.aiasst.vision Translate
+com.xiaomi.aicr Xiaomi HyperAI Engine
+com.xiaomi.aiservice AI Service
+com.xiaomi.barrage Bullet screen notification
+com.xiaomi.bluetooth Bluetooth Extension
+com.xiaomi.cameramind CameraMind
+com.xiaomi.cameratools CameraTools
+com.xiaomi.discover System apps updater
+com.xiaomi.finddevice Find device
+com.xiaomi.glgm Game Center
+com.xiaomi.hypercomm HyperComm
+com.xiaomi.joyose Joyose
+com.xiaomi.mi_connect_service Mi Connect
+com.xiaomi.mipicks GetApps
+com.xiaomi.mirror Device interconnectivity services
+com.xiaomi.misettings Settings
+com.xiaomi.mtb Rueban(MTB)
+com.xiaomi.phone HyperPhone
+com.xiaomi.simactivate.service Xiaomi SIM Activation Service
+com.xiaomi.trustservice MiTrustService
+com.xiaomi.ugd GPU Driver Updater
+com.xiaomi.xmsf Xiaomi Service Framework
+com.xiaomi.xmsfkeeper Xiaomi Service Framework Keeper
+miui.systemui.plugin System UI Plug-in
+org.ifaa.aidl.manager IfaaService
+vendor.qti.frameworks.utils FrameworksUtilsApp
+com.android.networkstack.inprocess.overlay NetworkStackInProcessResOverlay
+com.android.networkstack.overlay NetworkStackResOverlay
+com.android.networkstack.tethering.inprocess.overlay TetheringResOverlay
+com.android.networkstack.tethering.overlay TetheringResOverlay
+com.debug.loggerui DebugLoggerUI
+com.goodix.fingerprint.setting Goodix Fingerprint
+com.google.android.networkstack.overlay GoogleNetworkStackResOverlay
+com.google.android.networkstack.tethering.overlay TetheringResOverlay
+com.google.android.signature Signature
+com.mediatek.atci.service Atci_service
+com.mediatek.atmwifimeta ATMWifiMeta
+com.mediatek.callrecorder Call Recorder
+com.mediatek.capctrl.service RilCap
+com.mediatek.datachannel.service DataChannel
+com.mediatek.duraspeed DuraSpeed
+com.mediatek.engineermode EngineerMode
+com.mediatek.ims ImsApp
+com.mediatek.lbs.em2.ui LocationEM2
+com.mediatek.location.lppe.main LPPe Service
+com.mediatek.location.mtkgeofence Mtk Geofence
+com.mediatek.mdmconfig MDMConfig
+com.mediatek.mdmlsample MDMLSample
+com.mediatek.miravision.ui MiraVision
+com.mediatek.smartratswitch.service SmartRatSwitch
+com.mediatek.telephony Telephony Assist
+com.mediatek.voicecommand VoiceCommand
+com.mediatek.ygps YGPS
+com.miui.systemui.carriers.overlay MccMncOverlay
+com.novatek.novavis novavis
+com.xiaomi.mircs Mi RCS
+android.autoinstalls.config.soc.amlogic Device configuration
+com.amazon.amazonvideo.livingroom Prime Video
+com.android.adservices.api Android System
+com.android.captiveportallogin Captive Portal Login
+com.android.connectivity.resources System Connectivity Resources
+com.android.devicelockcontroller DeviceLockController
+com.android.healthconnect.controller Health Connect
+com.android.networkstack Network manager
+com.android.networkstack.tethering Tethering
+com.android.providers.media.module Media
+com.android.providers.tv TV Storage
+com.android.rkpdapp RemoteProvisioner
+com.android.tv.feedbackconsent Tv Feedback Consent
+com.android.tv.frameworkpackagestubs Activity Stub
+com.android.tv.mdnsoffloadcmd MdnsOffloadCmd
+com.android.tv.mdnsoffloadmanager MdnsOffloadManager
+com.android.tv.settings Settings
+com.dolby.android.audio.service DolbyAudioService
+com.droid.tv.mdnsoffloadmanager com.droid.tv.mdnsoffloadmanager
+com.droidlogic droidlogic System
+com.droidlogic.mdnsoffload My Application
+com.droidlogic.mictoggle My Application
+com.droidlogic.overlay com.droidlogic.overlay
+com.google.android.apps.mediashell Google Cast
+com.google.android.backdrop Backdrop
+com.google.android.katniss Google
+com.google.android.play.games Google Play Games
+com.google.android.tungsten.setupwraith Setup Wizard
+com.google.android.tv.remote.service Android TV Remote Service
+com.google.android.tvlauncher Android TV Home
+com.google.android.tvrecommendations Android TV Core Services
+com.google.android.youtube.tv YouTube
+com.google.android.youtube.tvmusic YouTube Music
+com.mi.bluetooth MiBluetooth
+com.mitv.dream Mi Wallpaper
+com.mitv.tvhome.atv PatchWall
+com.mitv.tvhome.michannel Mi Channel
+com.mitv.tvhome.mitvplus Xiaomi TV+
+com.mitv.videoplayer Mi TV Video Player
+com.miui.tv.analytics Analytics
+com.netflix.ninja Netflix
+com.netflix.tokenmanager Token Manager
+com.xiaomi.android.tvsetup.partnercustomizer SetupCustomizer
+com.xiaomi.mimusic2 Music Player
+com.xiaomi.mitv.smartshare Miracast
+com.xiaomi.mitv.updateservice PatchWall Update Service
+com.xiaomi.tvqs.overseas TvQS
+com.xiaomi.wfdsinkhelperservice WfdSinkHelperService
+com.xiaomo.tv.milegal milegal
+com.xm.webcontent WebContent
+mitv.service TvService
