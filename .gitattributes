@@ -1,5 +1,5 @@
 *.bat text eol=crlf
 *.lng -text
 *.txt text eol=crlf
-*.yar -linguist-detectable
 *.yara -linguist-detectable
+BatchApkTool/bin/plugins/APKiD/apkid/rules/** linguist-vendored
